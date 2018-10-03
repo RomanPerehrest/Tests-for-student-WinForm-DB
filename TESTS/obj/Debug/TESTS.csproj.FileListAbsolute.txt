@@ -1,0 +1,26 @@
+C:\Users\Romich\Documents\Visual Studio 2015\Projects\TESTS\TESTS\bin\Debug\TESTS.exe.config
+C:\Users\Romich\Documents\Visual Studio 2015\Projects\TESTS\TESTS\bin\Debug\TESTS.exe
+C:\Users\Romich\Documents\Visual Studio 2015\Projects\TESTS\TESTS\bin\Debug\TESTS.pdb
+C:\Users\Romich\Documents\Visual Studio 2015\Projects\TESTS\TESTS\obj\Debug\TESTS.AUTHORIZATION.resources
+C:\Users\Romich\Documents\Visual Studio 2015\Projects\TESTS\TESTS\obj\Debug\TESTS.Properties.Resources.resources
+C:\Users\Romich\Documents\Visual Studio 2015\Projects\TESTS\TESTS\obj\Debug\TESTS.AddStudent.resources
+C:\Users\Romich\Documents\Visual Studio 2015\Projects\TESTS\TESTS\obj\Debug\TESTS.RESULT.resources
+C:\Users\Romich\Documents\Visual Studio 2015\Projects\TESTS\TESTS\obj\Debug\TESTS.TEST.resources
+C:\Users\Romich\Documents\Visual Studio 2015\Projects\TESTS\TESTS\obj\Debug\TESTS.csproj.GenerateResource.Cache
+C:\Users\Romich\Documents\Visual Studio 2015\Projects\TESTS\TESTS\obj\Debug\TESTS.exe
+C:\Users\Romich\Documents\Visual Studio 2015\Projects\TESTS\TESTS\obj\Debug\TESTS.pdb
+C:\Users\Romich\Documents\Visual Studio 2015\Projects\TESTS\TESTS\obj\Debug\TESTS.MAIN_FORM.resources
+C:\Users\Romich\Documents\Visual Studio 2015\Projects\TESTS\TESTS\obj\Debug\TESTS.csprojResolveAssemblyReference.cache
+D:\бибип\2.1\КУРСОВА ЛМВ\TESTS\TESTS\bin\Debug\TESTS.exe.config
+D:\бибип\2.1\КУРСОВА ЛМВ\TESTS\TESTS\obj\Debug\TESTS.exe
+D:\бибип\2.1\КУРСОВА ЛМВ\TESTS\TESTS\obj\Debug\TESTS.pdb
+D:\бибип\2.1\КУРСОВА ЛМВ\TESTS\TESTS\bin\Debug\TESTS.exe
+D:\бибип\2.1\КУРСОВА ЛМВ\TESTS\TESTS\bin\Debug\TESTS.pdb
+D:\бибип\2.1\КУРСОВА ЛМВ\TESTS\TESTS\obj\Debug\TESTS.AUTHORIZATION.resources
+D:\бибип\2.1\КУРСОВА ЛМВ\TESTS\TESTS\obj\Debug\TESTS.MAIN_FORM.resources
+D:\бибип\2.1\КУРСОВА ЛМВ\TESTS\TESTS\obj\Debug\TESTS.Properties.Resources.resources
+D:\бибип\2.1\КУРСОВА ЛМВ\TESTS\TESTS\obj\Debug\TESTS.AddStudent.resources
+D:\бибип\2.1\КУРСОВА ЛМВ\TESTS\TESTS\obj\Debug\TESTS.RESULT.resources
+D:\бибип\2.1\КУРСОВА ЛМВ\TESTS\TESTS\obj\Debug\TESTS.TEST.resources
+D:\бибип\2.1\КУРСОВА ЛМВ\TESTS\TESTS\obj\Debug\TESTS.csproj.GenerateResource.Cache
+D:\бибип\2.1\КУРСОВА ЛМВ\TESTS\TESTS\obj\Debug\TESTS.csprojResolveAssemblyReference.cache
